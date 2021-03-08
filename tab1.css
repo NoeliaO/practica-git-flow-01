@@ -4,7 +4,7 @@ div.calc {
   width: fit-content;
   height: auto;
   padding: 1.5vw;
-  box-shadow: 2px 2px 5px gray;
+  box-shadow: 2px 2px 5px red;
 }
 
 button {
